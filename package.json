@@ -1,0 +1,15 @@
+{
+  "name": "bepro-widget",
+  "version": "1.0.1",
+  "description": "just test widget for bepro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Misha Kav",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.6.6",
+    "react": "^16.13.1"
+  }
+}
